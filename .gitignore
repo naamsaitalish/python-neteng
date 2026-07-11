@@ -6,3 +6,6 @@ temp/
 
 # Ignore all .temp files
 *.temp
+
+#Ignore .prettierrc files
+.prettierrc
